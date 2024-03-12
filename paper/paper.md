@@ -11,11 +11,17 @@ authors:
   - name: Last Author
     orcid: 0000-0000-0000-0000
     affiliation: 2
+ - name: Eric Kuijt
+    orcid: 0009-0000-9455-6680
+    affiliation: 3
 affiliations:
   - name: First Affiliation
     index: 1
   - name: Second Affiliation
     index: 2
+  - name: NIOO-KNAW
+    index: 3
+
 date: 8 November 2023
 cito-bibliography: paper.bib
 event: BH23EU
